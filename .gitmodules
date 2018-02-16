@@ -1,0 +1,9 @@
+[submodule "catkin_ws/src/bamboo_lake_gazebo"]
+	path = catkin_ws/src/bamboo_lake_gazebo
+	url = git@github.com:RobotX-NCTU/bamboo_lake_gazebo.git
+[submodule "catkin_ws/src/robotx_forum_tutorials"]
+	path = catkin_ws/src/robotx_forum_tutorials
+	url = git@github.com:RobotX-NCTU/robotx_forum_tutorials.git
+[submodule "catkin_ws/src/marine_duckiebot"]
+	path = catkin_ws/src/marine_duckiebot
+	url = git@github.com:RobotX-NCTU/marine_duckiebot.git
