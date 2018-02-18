@@ -26,3 +26,6 @@ sudo apt install -y \
         ros-kinetic-geometry2 \
         ros-kinetic-velodyne-*
 
+cd catkin_ws/src/robotx_forum_tutorials/pypid/
+
+sudo python setup.py develop
