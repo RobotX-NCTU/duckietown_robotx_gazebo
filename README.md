@@ -3,7 +3,8 @@ This repo include 3 repo, due to dependency
 *   [robotx_forum tutorial](https://github.com/RobotX-NCTU/robotx_forum_tutorials)  
 *   [bamboo_lake_gazebo](https://github.com/RobotX-NCTU/bamboo_lake_gazebo)    
 *   [marine_duckiebot](https://github.com/RobotX-NCTU/marine_duckiebot)  
-## clone
+## clone    
+**>MUST CLONE WITH SSH**  
 ```
 git clone --recursive git@github.com:RobotX-NCTU/duckietown_robotx_gazebo.git
 ```
@@ -23,7 +24,7 @@ You should run environment.sh before doing something in this package
 ## About bamboo_lake_gazebo
 all model world
 ```
-roslaunch bamboo_lake_gazebo all_model.launchs
+roslaunch bamboo_lake_gazebo all_model.launch
 ```
 ![](https://i.imgur.com/oLhUigJ.jpg)  
 ![](https://i.imgur.com/uwR3X6I.jpg)  
