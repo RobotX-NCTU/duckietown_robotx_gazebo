@@ -24,7 +24,7 @@ You should run environment.sh before doing something in this package
 ## About bamboo_lake_gazebo
 all model world
 ```
-roslaunch bamboo_lake_gazebo all_model.launchs
+roslaunch bamboo_lake_gazebo all_model.launch
 ```
 ![](https://i.imgur.com/oLhUigJ.jpg)  
 ![](https://i.imgur.com/uwR3X6I.jpg)  
