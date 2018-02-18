@@ -25,4 +25,4 @@ all model world
 ```
 roslaunch bamboo_lake_gazebo all_model.launchs
 ```
-![](https://i.imgur.com/R25JCxL.jpg)
+![](https://i.imgur.com/MZWql7G.jpg)
