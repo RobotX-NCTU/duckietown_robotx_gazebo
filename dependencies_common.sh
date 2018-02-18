@@ -30,4 +30,4 @@ cd catkin_ws/src/robotx_forum_tutorials/pypid/
 
 sudo python setup.py develop
 
-cd ../../../
+cd ../../../../
